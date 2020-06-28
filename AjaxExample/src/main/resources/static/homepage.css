@@ -1,0 +1,15 @@
+ .tablinks {
+  background-color: #555;
+  color: white;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 17px;
+  width: 25%;
+}
+
+.tablinks:hover {
+  background-color: #777;
+}
